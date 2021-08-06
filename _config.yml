@@ -33,5 +33,4 @@ port: 4000
 host: 0.0.0.0
 safe: false
 
-# Site settings
-url: "https://saisai841996.github.io/online-cv/" 
+
